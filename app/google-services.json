@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1026233439092",
+    "firebase_url": "https://snake-and-ladder-73d1c.firebaseio.com",
+    "project_id": "snake-and-ladder-73d1c",
+    "storage_bucket": "snake-and-ladder-73d1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026233439092:android:0d2fa73d534879cc",
+        "android_client_info": {
+          "package_name": "razon.snakegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026233439092-ksm01h4jp7eqdnuqp7rhsg0gfchmtfbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNWDhpCy2Sxd-skM45Ru8V9ET8VYby2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026233439092:android:90fca122ee8a5afe",
+        "android_client_info": {
+          "package_name": "com.razon.whatthefact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026233439092-ksm01h4jp7eqdnuqp7rhsg0gfchmtfbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNWDhpCy2Sxd-skM45Ru8V9ET8VYby2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
